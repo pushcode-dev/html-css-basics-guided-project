@@ -18,6 +18,10 @@ In this project, we will be creating a website that will allow us to practice so
 
 ## Steps
 
+There are no formal steps in this project.  We are going to recreate the website you see in the image below.  There are many ways we can accomplish this goal.  Follow along with the video if you nee guidance, but you can also try to recreate it on your own.  It might be a good idea to do both!
+
+<img width="644" alt="Screen Shot 2020-08-03 at 8 09 05 AM" src="https://user-images.githubusercontent.com/68203064/89191774-a6c92c00-d560-11ea-82fa-8f6bea4a39f7.png">
+
 ## Submit project
 
 The final step, and one of the most important! Use git to add and commit any new changes, then push those changes to your reposiroty on github.
